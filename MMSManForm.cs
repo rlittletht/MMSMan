@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MMSMan
 {
-    public partial class Form1 : Form
+    public partial class MMSManForm : Form
     {
-        public Form1()
+        public MMSManForm()
         {
             InitializeComponent();
         }
