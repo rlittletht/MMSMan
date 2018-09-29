@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27924.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSMan", "MMSMan.csproj", "{0CC28315-36BF-46CC-BF95-F44AE79BE37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC28315-36BF-46CC-BF95-F44AE79BE37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC28315-36BF-46CC-BF95-F44AE79BE37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC28315-36BF-46CC-BF95-F44AE79BE37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC28315-36BF-46CC-BF95-F44AE79BE37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C652A67-7137-40B5-8C2C-236C0E7DADCE}
+	EndGlobalSection
+EndGlobal
